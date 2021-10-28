@@ -22,3 +22,10 @@ mild light
 coin name  
 money cache  
 hoarse pony  
+dishonest lion
+early mourning
+sad morning
+clothing ware
+serving dish
+dish gossip
+sea view
