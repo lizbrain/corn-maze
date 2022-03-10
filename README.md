@@ -29,3 +29,5 @@ clothing ware
 serving dish  
 dish gossip  
 sea view  
+fish perch  
+high waisted  
