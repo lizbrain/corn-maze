@@ -1,4 +1,4 @@
-# corn-maze
+# Phrase Redundancy
 
 mail man  
 corn maze  
@@ -31,3 +31,18 @@ dish gossip
 sea view  
 fish perch  
 high waisted  
+
+# Double Past
+
+banded
+bounded
+breaded
+felled
+felted
+founded
+grounded
+herded
+satan
+sawed/sawn
+scented
+spoked
