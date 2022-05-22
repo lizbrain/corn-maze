@@ -35,14 +35,18 @@ high waisted
 # Double Past
 
 banded  
+bored  
 bounded  
 breaded  
+drugged
+drunken  
 felled  
 felted  
 founded  
 grounded  
 herded  
 satan  
-sawed/sawn  
+sawed  
 scented  
 spoked  
+warred  
