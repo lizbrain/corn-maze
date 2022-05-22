@@ -11,7 +11,7 @@ add some
 wine complaint  
 regular plane  
 court date  
-light fare  
+lite fare  
 cave collapse  
 lazy idol  
 green field  
