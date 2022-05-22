@@ -38,7 +38,7 @@ banded
 bored  
 bounded  
 breaded  
-drugged
+drugged  
 drunken  
 felled  
 felted  
