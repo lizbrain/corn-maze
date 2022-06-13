@@ -1,4 +1,5 @@
 # Phrase Redundancy
+Two-word phrases with at least two degrees of pun separation. AKA "That's redundant".
 
 mail man  
 corn maze  
@@ -33,6 +34,7 @@ fish perch
 high waisted  
 
 # Double Past
+Past tense verbs whose present tense is a homophone of a past tense verb.
 
 banded  
 bored  
@@ -45,8 +47,10 @@ felted
 founded  
 grounded  
 herded  
-satan  
+satin  
 sawed  
 scented  
 spoked  
+toward  
 warred  
+
