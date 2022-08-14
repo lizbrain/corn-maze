@@ -37,6 +37,8 @@ high waisted
 Past tense verbs whose present tense is a homophone of a past tense verb.
 
 banded  
+bearded
+boarded  
 bored  
 bounded  
 breaded  
@@ -44,13 +46,17 @@ drugged
 drunken  
 felled  
 felted  
+fielded  
 founded  
 grounded  
 herded  
+maiden  
 satin  
 sawed  
 scented  
 spoked  
+taughted  
 toward  
 warred  
+wooded  
 
