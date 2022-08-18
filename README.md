@@ -50,13 +50,18 @@ fielded
 founded  
 grounded  
 herded  
+leaded  
 maiden  
+pleaded  
+roaded  
 satin  
 sawed  
 scented  
+seeded  
+smelted  
 spoked  
 taughted  
-toward  
+toward/toured  
 warred  
 wooded  
 
