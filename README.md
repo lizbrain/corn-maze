@@ -36,32 +36,33 @@ high waisted
 # Double Past
 Past tense verbs whose present tense is a homophone of a past tense verb.
 
-banded  
-bearded  
-boarded  
-bored  
-bounded  
-breaded  
-drugged  
-drunken  
-felled  
-felted  
-fielded  
-founded  
-grounded  
-herded  
-leaded  
-maiden  
-pleaded  
-roaded  
-satin  
-sawed  
-scented  
-seeded  
-smelted  
-spoked  
-taughted  
-toward/toured  
-warred  
-wooded  
+ban banned banded  
+beer beard bearded  
+bore bored boarded  
+bear bore bored  
+bind bound bounded  
+bread bread breaded  
+drag drug drugged  
+drink drunk drunken  
+fall fell felled  
+feel felt felted  
+feel feeled fielded  
+find found founded  
+grind ground grounded  
+hear heard herded  
+lead lead leaded  
+make made maiden  
+no new nude
+plea plead pleaded  
+row road roaded  
+sit sat satin  
+see saw sawed  
+send cent scented  
+see seed seeded  
+smell smelt smelted  
+speak spoke spoked  
+teach taught taughted  
+tear tour toward/toured  
+where wore warred  
+will would wooded  
 
