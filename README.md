@@ -54,7 +54,7 @@ grind ground grounded
 hear heard herded  
 lead lead leaded  
 make made maiden  
-mine mind minded
+mine mind minded  
 no new nude  
 plea plead pleaded  
 row road roaded  
