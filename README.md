@@ -32,6 +32,7 @@ dish gossip
 sea view  
 fish perch  
 high waisted  
+night shade  
 
 # Double Past
 Past tense verbs whose present tense is a homophone of a past tense verb.
@@ -47,12 +48,13 @@ drink drunk drunken
 fall fell felled  
 feel felt felted  
 feel feeled fielded  
-find found founded  
+fine find found founded  
 flow flowed floated  
 grind ground grounded  
 hear heard herded  
 lead lead leaded  
 make made maiden  
+mine mind minded
 no new nude  
 plea plead pleaded  
 row road roaded  
@@ -66,4 +68,5 @@ teach taught taughted
 tear tour toward/toured  
 where wore warred  
 will would wooded  
-
+win wind winded  
+wine wind wound  
