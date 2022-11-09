@@ -1,38 +1,38 @@
 # Phrase Redundancy
 Two-word phrases with at least two degrees of pun separation. AKA "That's redundant".
 
-mail man  
-corn maze  
-you sheep  
-not tied  
-soft light  
-kill off  
-either oar  
 add some  
-wine complaint  
-regular plane  
-court date  
-lite fare  
 cave collapse  
-lazy idol  
-green field  
-flower rows  
-damn wall  
-stamp brand  
-mild light  
+clothing ware  
 coin name  
-money cache  
-hoarse pony  
+corn maze  
+court date  
+damn wall  
+dish gossip  
 dishonest lion  
 early mourning  
-sad morning  
-clothing ware  
-serving dish  
-dish gossip  
-sea view  
+either oar  
 fish perch  
+flower rows  
+green field  
 high waisted  
+hoarse pony  
+kill off  
+lazy idol  
+lite fare  
+mail man  
+mild light  
+money cache  
 night shade  
+not tied  
+regular plane  
+sad morning  
+sea view  
+serving dish  
+soft light  
+stamp brand  
+wine complaint  
+you sheep  
 
 # Double Past
 Past tense verbs whose present tense is a homophone of a past tense verb.
