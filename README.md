@@ -2,6 +2,7 @@
 Two-word phrases with at least two degrees of pun separation. AKA "That's redundant".
 
 add some  
+buy bide bided
 cave collapse  
 clothing ware  
 coin name  
@@ -15,6 +16,7 @@ either oar
 fish perch  
 flower rows  
 green field  
+gill guit guited
 high waisted  
 hoarse pony  
 kill off  
@@ -25,6 +27,7 @@ mild light
 money cache  
 night shade  
 not tied  
+quill quilt quilted  
 regular plane  
 sad morning  
 sea view  
@@ -62,6 +65,7 @@ sit sat satin
 see saw sawed  
 send cent scented  
 see seed seeded  
+sigh sighed sided
 smell smelt smelted  
 speak spoke spoked  
 teach taught taughted  
