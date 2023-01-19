@@ -41,16 +41,18 @@ you sheep
 Past tense verbs whose present tense is a homophone of a past tense verb.
 
 ban banned banded  
+be bead beaded
 beer beard bearded  
 bore bored boarded  
 bear bore bored  
 bind bound bounded  
 bread bread breaded  
+catch cot cotton  
 drag drug drugged  
 drink drunk drunken  
 fall fell felled  
 feel felt felted  
-feel feeled fielded  
+feel field fielded  
 fine find found founded  
 flow flowed floated  
 grind ground grounded  
@@ -60,9 +62,11 @@ make made maiden
 mine mind minded  
 no new nude  
 plea plead pleaded  
+pry pride prided  
 row road roaded  
 sit sat satin  
 see saw sawed  
+see seed seeded
 send cent scented  
 see seed seeded  
 sigh sighed sided
@@ -71,6 +75,7 @@ speak spoke spoked
 teach taught taughted  
 tear tour toward/toured  
 where wore warred  
+wye wyed widen  
 will would wooded  
 win wind winded  
 wine wind wound  
