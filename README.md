@@ -2,7 +2,6 @@
 Two-word phrases with at least two degrees of pun separation. AKA "That's redundant".
 
 add some  
-buy bide bided
 cave collapse  
 clothing ware  
 coin name  
@@ -16,7 +15,6 @@ either oar
 fish perch  
 flower rows  
 green field  
-gill guit guited
 high waisted  
 hoarse pony  
 kill off  
@@ -27,7 +25,6 @@ mild light
 money cache  
 night shade  
 not tied  
-quill quilt quilted  
 regular plane  
 sad morning  
 sea view  
@@ -41,12 +38,13 @@ you sheep
 Past tense verbs whose present tense is a homophone of a past tense verb.
 
 ban banned banded  
-be bead beaded
+be bead beaded  
 beer beard bearded  
 bore bored boarded  
 bear bore bored  
 bind bound bounded  
 bread bread breaded  
+buy bide bided  
 catch cot cotton  
 drag drug drugged  
 drink drunk drunken  
@@ -55,6 +53,7 @@ feel felt felted
 feel field fielded  
 fine find found founded  
 flow flowed floated  
+gill guit guited  
 grind ground grounded  
 hear heard herded  
 lead lead leaded  
@@ -63,13 +62,14 @@ mine mind minded
 no new nude  
 plea plead pleaded  
 pry pride prided  
+quill quilt quilted  
 row road roaded  
 sit sat satin  
 see saw sawed  
-see seed seeded
+see seed seeded  
 send cent scented  
 see seed seeded  
-sigh sighed sided
+sigh sighed sided  
 smell smelt smelted  
 speak spoke spoked  
 teach taught taughted  
