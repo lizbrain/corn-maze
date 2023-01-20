@@ -45,6 +45,7 @@ bear bore bored
 bind bound bounded  
 bread bread breaded  
 buy bide bided  
+can canned candid  
 catch cot cotton  
 drag drug drugged  
 drink drunk drunken  
