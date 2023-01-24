@@ -50,6 +50,7 @@ catch cot cotton
 drag drug drugged  
 drink drunk drunken  
 fall fell felled  
+fee feed fed  
 feel felt felted  
 feel field fielded  
 fine find found founded  
@@ -57,7 +58,9 @@ flow flowed floated
 gill guit guited  
 grind ground grounded  
 hear heard herded  
+law lawed lauded  
 lead lead leaded  
+low load loaded  
 make made maiden  
 mine mind minded  
 no new nude  
@@ -75,6 +78,7 @@ smell smelt smelted
 speak spoke spoked  
 teach taught taughted  
 tear tour toward/toured  
+tie tide tided  
 where wore warred  
 wye wyed widen  
 will would wooded  
