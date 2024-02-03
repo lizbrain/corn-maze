@@ -87,3 +87,20 @@ wye wyed widen
 will would wooded  
 win wind winded  
 wine wind wound  
+
+# Common First Names which Do
+Bob
+Rob
+Sue
+Stew
+Marry
+Ty
+Matt
+Barb
+Peter
+Carol
+Mark
+Doug
+Kerry
+Art
+Mike
