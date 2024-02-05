@@ -88,12 +88,13 @@ will would wooded
 win wind winded  
 wine wind wound  
 
-# Common First Names which Do
+# Names which Do
+Common first names which are homophones of verbs.
 Bob
 Rob
 Sue
 Stew
-Marry
+Mary
 Ty
 Matt
 Barb
@@ -104,3 +105,9 @@ Doug
 Kerry
 Art
 Mike
+Chuck
+Berry
+Neil
+Bill
+Don
+Pat
