@@ -38,6 +38,7 @@ wine complaint
 you sheep  
 basket case  
 climbing rose  
+smelt fishy  
 
 # Double Past
 Past tense verbs whose present tense is a homophone of a past tense verb.
