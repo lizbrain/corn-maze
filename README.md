@@ -47,13 +47,13 @@ Past tense verbs whose present tense is a homophone of a past tense verb.
 ban banned banded  
 be bead beaded  
 beer beard bearded  
-bore bored boarded  
-bear bore bored  
+bear bore bored boarded  
 bind bound bounded  
 bread bread breaded  
 buy bide bided  
 can canned candid  
 catch cot cotton  
+core cord corded
 chess chest chested  
 drag drug drugged  
 drink drunk drunken  
@@ -71,6 +71,7 @@ lead lead leaded
 low load loaded  
 make made maiden  
 mass mast masted
+wear wore word worded  
 mine mind minded  
 no new nude  
 plea plead pleaded  
@@ -88,7 +89,8 @@ speak spoke spoked
 teach taught taughted  
 tear tour toward/toured  
 tie tide tided  
-where wore warred  
+tray trade traded
+where wore warred warded  
 wye wyed widen  
 will would wooded  
 win wind winded  
@@ -118,3 +120,4 @@ Bill
 Don
 Pat
 Nick
+Jimmy
