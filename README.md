@@ -96,8 +96,8 @@ speak spoke spoked
 teach taught taughted  
 tear tour toward/toured  
 tie tide tided  
-tray trade traded  
 tough toughed tufted  
+tray trade traded  
 truss trussed trusted  
 wear wore warred warded  
 will would wooded  
