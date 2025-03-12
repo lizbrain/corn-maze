@@ -61,6 +61,7 @@ chess chest chested
 core cord corded  
 drag drug drugged  
 drink drunk drunken  
+duck ducked ducted  
 fall fell felled  
 fee feed fed  
 feel felt felted  
@@ -96,6 +97,7 @@ teach taught taughted
 tear tour toward/toured  
 tie tide tided  
 tray trade traded  
+tough toughed tufted  
 truss trussed trusted  
 wear wore warred warded  
 will would wooded  
