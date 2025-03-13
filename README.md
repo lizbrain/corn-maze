@@ -46,6 +46,7 @@ Past tense verbs whose present tense is a homophone of a past tense verb.
 
 are were whirred worded  
 ban banned banded  
+base baste basted  
 be bead beaded  
 be been binned  
 bear bore bored boarded  
