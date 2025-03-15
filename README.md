@@ -44,57 +44,67 @@ farewell
 # Double Past
 Past tense verbs whose present tense is a homophone of a past tense verb.
 
+are were whirred worded  
 ban banned banded  
+base baste basted  
 be bead beaded  
-beer beard bearded  
+be been binned  
 bear bore bored boarded  
+beer beard bearded  
 bind bound bounded  
-bread bread breaded  
+blow blew blued  
+bowl bold bolded  
+breed bread breaded  
 buy bide bided  
 can canned candid  
 catch cot cotton  
-core cord corded
 chess chest chested  
+core cord corded  
 drag drug drugged  
 drink drunk drunken  
+duck ducked ducted  
 fall fell felled  
 fee feed fed  
 feel felt felted  
 feel field fielded  
 fine find found founded  
 flow flowed floated  
-gill guit guited  
+gill gild gilt guilted  
 grind ground grounded  
 hear heard herded  
 law lawed lauded  
 lead lead leaded  
+lie lay laid laded  
 low load loaded  
 make made maiden  
-mass mast masted
-wear wore word worded  
+mass mast masted  
 mine mind minded  
 no new nude  
+pace paced pasted  
 plea plead pleaded  
 pry pride prided  
 quill quilt quilted  
+rend rent rented  
 row road roaded  
 see saw sawed  
 see seed seeded  
 send cent scented  
-see seed seeded  
 sigh sighed sided  
 sit sat satin  
 smell smelt smelted  
+soar soared sordid  
 speak spoke spoked  
 teach taught taughted  
 tear tour toward/toured  
 tie tide tided  
-tray trade traded
-where wore warred warded  
-wye wyed widen  
+tough toughed tufted  
+tray trade traded  
+truss trussed trusted  
+wear wore warred warded  
 will would wooded  
 win wind winded  
 wine wind wound  
+wye wyed widen  
 
 # Names which Do
 Common first names which are homophones of verbs.
