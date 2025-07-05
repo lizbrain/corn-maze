@@ -101,6 +101,7 @@ tough toughed tufted
 tray trade traded  
 truss trussed trusted  
 wear wore warred warded  
+wheel wield wielded  
 will would wooded  
 win wind winded  
 wine wind wound  
