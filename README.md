@@ -60,6 +60,7 @@ can canned candid
 catch cot cotton  
 chess chest chested  
 core cord corded  
+discuss discussed disgusted  
 drag drug drugged  
 drink drunk drunken  
 duck ducked ducted  
