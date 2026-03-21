@@ -81,6 +81,7 @@ make made maiden
 mass mast masted  
 mine mind minded  
 no new nude  
+naw nod nodded  
 pace paced pasted  
 plea plead pleaded  
 pry pride prided  
