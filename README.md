@@ -53,6 +53,7 @@ bear bore bored boarded
 beer beard bearded  
 bind bound bounded  
 blow blew blued  
+bow bode boded  
 bowl bold bolded  
 breed bread breaded  
 buy bide bided  
