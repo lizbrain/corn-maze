@@ -117,7 +117,7 @@ Rob
 Sue
 Stew
 Mary
-Ty
+Tye
 Matt
 Barb
 Peter
@@ -147,3 +147,4 @@ Roger
 Gage
 Russell
 Phill
+Wayne
