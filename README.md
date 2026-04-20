@@ -97,6 +97,7 @@ sit sat satin
 smell smelt smelted  
 soar soared sordid  
 speak spoke spoked  
+swear swore sword sordid  
 teach taught taughted  
 tear tour toward/toured  
 tie tide tided  
