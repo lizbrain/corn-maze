@@ -27,7 +27,7 @@ money cache
 night shade  
 not tied  
 peer review  
-pour drainage. 
+pour drainage  
 regular plane  
 sad morning  
 sea view  
@@ -106,6 +106,7 @@ tough toughed tufted
 tray trade traded  
 truss trussed trusted  
 wear wore warred warded  
+wee weed weeded  
 wheel wield wielded  
 will would wooded  
 win wind winded  
