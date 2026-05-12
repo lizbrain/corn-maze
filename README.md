@@ -75,6 +75,7 @@ flow flowed floated
 gill gild gilt guilted  
 grind ground grounded  
 hear heard herded  
+knee need kneaded  
 law lawed lauded  
 lead lead leaded  
 lie lay laid laded  
