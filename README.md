@@ -117,40 +117,4 @@ wye wyed widen
 
 # Names which Do
 Common first names which are homophones of verbs.  
-Bob
-Rob
-Sue
-Stew
-Mary
-Tye
-Matt
-Barb
-Peter
-Carol
-Mark
-Doug
-Kerry
-Art
-Mike
-Chuck
-Berry
-Neil
-Bill
-Don
-Paige
-Pat
-Nick
-Jimmy
-Will
-Ralph
-Candy
-Jack
-Rowan
-Peg
-Tucker
-Roger
-Gage
-Russell
-Phill
-Wayne
-Grant
+Art, Barb, Berry, Bill, Bob, Candy, Carol, Chuck, Don, Doug, Gage, Grant, Huck, Jack, Jimmy, Kerry, Mark, Mary, Matt, Mike, Neil, Nick, Paige, Pat, Peg, Peter, Phill, Ralph, Rob, Roger, Rowan, Russell, Stew, Sue, Tucker, Tye, Wayne, Will
